@@ -1,7 +1,7 @@
 
-#Training Center Application
+# Training Center Application
 ## Description
-Training Center Application contains information related to Goverment funded Training Centers.
+Training Center Application contains information related to Goverment funded Training Centers(hypothethically)
 
 NOTE: You don't need to create DB tables ,it will create itself once you build the Project.
 
@@ -32,6 +32,7 @@ It contains the following apis:
 "contactEmail":"help@gmail.com",
 "contactPhone":"8445958023"
 }'
+
 =========================================================
 * POST "v1/center" : It is used to add a new training center.
 =========================================================
@@ -58,6 +59,7 @@ It contains the following apis:
 "contactEmail":"help@gmail.com",
 "contactPhone":"8445958023"
 }'
+
 =========================================================
 ## Project Structure
 It contains the following files:
